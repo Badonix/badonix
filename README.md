@@ -18,7 +18,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.webp" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k31if346g017zel1q4q192hgud6zeesdmqqidy3c&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm 16 years old Self-taught Full-Stack developer from Georgia.</h3>
 </p>
