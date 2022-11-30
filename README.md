@@ -51,7 +51,7 @@
 
 ### - Languages and Tools...
 
-<div align="center">
+
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    <br>
@@ -70,8 +70,7 @@
    ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
    ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
-</div>
+
 
 ### - What i do
 
