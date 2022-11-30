@@ -4,12 +4,8 @@
 </div>
 
 <p align='center'>
-   <a href="www.linkedin.com/in/nickdanelia
-"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/nickdanelia"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/badonix2300"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/Nick.danee"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
-
  </p>
 
 <div align="center">
@@ -22,7 +18,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47binj5gwlkfd93h6dfh6l0zregpnao39chvt2krl6&rid=giphy.gif&ct=g" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.webp" />
 <p align="center">
   <h3> I'm 16 years old Self-taught Full-Stack developer from Georgia.</h3>
 </p>
