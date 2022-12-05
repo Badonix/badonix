@@ -26,7 +26,6 @@
 - 🥀 Learning Javascript
 
 - <i>with Javascript, Typescript, React and 69 others.</i>
-- 💻 Computers FanBoi, die for PC
 
 - ➕ Into Math and Physics
 
