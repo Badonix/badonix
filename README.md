@@ -25,7 +25,7 @@
 
 - 🥀 Learning Javascript
 
-- <i>with Javascript, Typescript, React and 69 others.</i>
+- <i>with Javascript, Laravel, React and 69 others.</i>
 
 - ➕ Into Math and Physics
 
