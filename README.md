@@ -34,7 +34,7 @@
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/badonix2300)
 
  <p align="center">
-  <h4> Full Stack | React | Clash Of Code </h4>
+  <h4> Full Stack | React | Laravel </h4>
    </p>
 
 <!--  -->
