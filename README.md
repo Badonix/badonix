@@ -9,7 +9,7 @@
  </p>
 
 <div align="center">
-<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎 Badonix | 💻 Full Stack Developer | 🛸 Georgia <img src="https://i.giphy.com/media/ICOgUNjpvO0PC/giphy.webp" width="30"></h3>
+<h3><img src="https://media0.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif?cid=ecf05e470hioj2be2vudkr0hk1di6vnp8behm8eyrzj2synn&rid=giphy.gif&ct=g" width="30"> 🙎 Badonix | 💻 Full Stack Developer | 🛸 Georgia </h3>
 </div>
 
  <h5 align="center">
