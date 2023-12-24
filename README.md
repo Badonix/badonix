@@ -20,7 +20,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://i.gifer.com/origin/d6/d66620ccdb4aee4182879a2c07d393ef_w200.gif" />
 <p align="center">
-  <h3> I'm 16 years old Self-taught Full-Stack developer from Georgia.</h3>
+  <h3> I'm 17 years old Self-taught Full-Stack developer from Georgia.</h3>
 </p>
 
 - 🥀 Learning Rust
