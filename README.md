@@ -23,7 +23,7 @@
   <h3> I'm 17 years old Self-taught Full-Stack developer from Georgia.</h3>
 </p>
 
-- 🥀 Learning Rust
+- 🥀 Learning Go
 
 - <i>with Javascript, Laravel, React and 69 others.</i>
 
